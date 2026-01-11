@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "Black and white Mode",
+  "description": "Makes background white and text black",
+  "version": "1.0",
+
+  "permissions": ["scripting", "activeTab"],
+
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
